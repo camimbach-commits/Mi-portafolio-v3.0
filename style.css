@@ -75,7 +75,6 @@ nav a:hover {
     background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('img/tu-foto-fondo.jpg'); 
     background-size: cover;      /* Para que la foto cubra todo el espacio */
     background-position: center;  /* Para que la foto esté centrada */
-    color: white;                /* Si el fondo es oscuro, ponemos el texto blanco */
     /* ------------------------------- */
     background: linear-gradient(135deg, #ffffff 0%, #e9ecef 100%);
 }
