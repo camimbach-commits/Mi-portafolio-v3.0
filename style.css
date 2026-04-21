@@ -72,10 +72,9 @@ nav a:hover {
     padding: 100px 5%;
     text-align: center;
     /* --- AQUÍ AGREGAMOS LA IMAGEN --- */
-    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('img/tu-foto-fondo.jpg'); 
-    background-size: cover;      /* Para que la foto cubra todo el espacio */
-    background-position: center;  /* Para que la foto esté centrada */
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('img/proyecto1.jpg'); 
     /* ------------------------------- */
+    
     background: linear-gradient(135deg, #ffffff 0%, #e9ecef 100%);
 }
 
